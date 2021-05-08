@@ -1,2 +1,5 @@
 # Processes-Threads-OS
-Demonstration of processes and threads of a simple program
+Demonstrating and implementing some very basic and important concepts of OS - processes & threads.
+
+**The code was written as a part of the course CSE231-Operating Systems.
+
